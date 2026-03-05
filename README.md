@@ -81,6 +81,9 @@ Based on the analysis:
 
 The dashboard provides a visual representation of the key insights discovered during the analysis.
 
+
+![Retail Sales Dashboard](Dashboard.png)
+
 ---
 
 ## 📁 Project Files
